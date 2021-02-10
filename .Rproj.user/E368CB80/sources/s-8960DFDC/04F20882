@@ -1,25 +1,25 @@
 {
-    "id": "A6900EC0",
-    "path": "~/Desktop/test-r-git-demo/my_first_file.R",
-    "project_path": "my_first_file.R",
+    "id": "04F20882",
+    "path": "~/Desktop/test-r-git-demo/my_second_file.R",
+    "project_path": "my_second_file.R",
     "type": "r_source",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1612951575787.0,
+    "created": 1612951893373.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
         "tempName": "Untitled1",
-        "cursorPosition": "1,23",
+        "cursorPosition": "0,10",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1612951885,
+    "lastKnownWriteTime": 1612951910,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1612951885020,
+    "last_content_update": 1612951910581,
     "read_only": false,
     "read_only_alternatives": []
 }
